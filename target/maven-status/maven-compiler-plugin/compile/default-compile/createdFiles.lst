@@ -1,0 +1,9 @@
+eFriends/model/User.class
+eFriends/controller/LoginController.class
+eFriend/Dao/UserDAO.class
+eFriend/Dao/UserMapper.class
+eFriends/controller/RegistrationController.class
+eFriend/service/UserService.class
+eFriend/service/UserServiceImpl.class
+eFriend/Dao/UserDaoImpl.class
+eFriends/model/Login.class
